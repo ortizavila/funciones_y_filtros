@@ -1,4 +1,6 @@
 ## Descripción
 
-Aquí pondré todos los pequeños scripts que ayudan a preprocesar los datos del DAS, una vez que los tenemos en arreglos de tipo Numpy
+Script en jupyter que se emplea para entrenar la red de convolución que se utilizará para realizar la detección.
+
+
 
